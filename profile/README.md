@@ -1,3 +1,13 @@
+```
+    ____  ____  ______   _____   ______  ____  _   _____________ _______ 
+   / __ \/ __ \/ ____/  /  _/ | / / __ \/ __ \/ | / / ____/ ___//  _/   |
+  / /_/ / / / / /       / //  |/ / / / / / / /  |/ / __/  \__ \ / // /| |
+ / ____/ /_/ / /___   _/ // /|  / /_/ / /_/ / /|  / /___ ___/ // // ___ |
+/_/    \____/\____/  /___/_/ |_/_____/\____/_/ |_/_____//____/___/_/  |_|
+                                                                         
+```
+
+
 # 🇮🇩 POC INDONESIA (POC ID) 📡
 POC Indonesia (POC ID) di bawah naungan INADI (Informasi Antar Daerah Indonesia) adalah komunitas komunikasi berbasis aplikasi dari berbagai kalangan umur dan profesi, yang bertujuan menjalin hubungan[...]
 
